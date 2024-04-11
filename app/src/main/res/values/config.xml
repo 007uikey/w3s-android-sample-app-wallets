@@ -1,4 +1,4 @@
 <resources>
     <string name="pw_endpoint" translatable="false">https://enduser-sdk.circle.com/v1/w3s/</string>
-    <string name="pw_app_id" translatable="false"></string>
+    <string name="pw_app_id" translatable="false">bf052417-dda2-5692-9b5c-4e227f78aeae</string>
 </resources>
